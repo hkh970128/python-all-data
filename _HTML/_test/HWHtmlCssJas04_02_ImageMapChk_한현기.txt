@@ -1,0 +1,14 @@
+이미지 맵 : 하나의 이미지에 다수의 링크 적용
+
+<img src="경로">      must add a use map attribute(hash tag #)
+The areas are defined with one or more <area> tags.
+
+The image is inserted using the <img> tag. The only difference from other images is that you must add a usemap attribute:
+
+The name attribute must have the same value as the <img>'s usemap attribute .
+
+
+rect - defines a rectangular region x y 축 사용
+circle - defines a circular region       center  적용
+poly - defines a polygonal region
+default - defines the entire region

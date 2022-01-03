@@ -1,0 +1,7 @@
+C:\Program Files\_pythontest>python test01.py
+-20
+3050
+
+C:\Program Files\_pythontest>
+
+

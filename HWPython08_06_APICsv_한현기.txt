@@ -1,0 +1,6 @@
+The so-called CSV (Comma Separated Values) format is
+ the most common import and export format for spreadsheets and databases.
+
+
+csv.reader(csvfile)
+Return a reader object which will iterate over lines  in the given csvfile.

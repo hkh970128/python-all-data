@@ -1,0 +1,14 @@
+An HTML form is used to collect user input.
+
+
+
+The HTML <input> element is the most used form element.
+
+
+
+
+ <input> element  type attribute.
+
+<input type="text"> defines a single-line text input field:
+<input type="submit"> defines a button for submitting form data to a form-handler.
+<form action="/action_page.php">    On submit, send form data to "action_page.php":

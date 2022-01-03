@@ -1,0 +1,22 @@
+
+C:\Users\WSU>python
+Python 3.6.5 (v3.6.5:f59c0932b4, Mar 28 2018, 17:00:18) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> a = 10
+>>> b = 15
+>>> a+b
+25
+>>> a = '12'
+>>> b = '15'
+>>> a+b
+'1215'
+>>> a = 3.15
+>>> b =5
+>>> a+b
+8.15
+>>> a = "python"
+>>> print(a)
+python
+>>> a
+'python'
+>>>

@@ -1,0 +1,11 @@
+<a href = "url"> link text or image </a>
+ 01 프로토콜:// 도메인 or ip포트번호/경로
+ 경로 : *.html 등등 jsp, asp, php
+ 02 도메인 http://www.naver.com:80  or 8080/index.html
+
+ 03 ip
+  ping naver.com >>
+
+  04.ip 주소나옴 
+   http://223.130.200.104 >> 들어가짐
+

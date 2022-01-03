@@ -1,0 +1,26 @@
+모듈이란 함수나 변수 또는 클래스를 모아 놓은 파일
+- 파이썬 파일이라고 할수 있음
+- 많은 모듈을 사용하게 된다
+- 이미 만들어 놓은 모듈을 사용
+- 불러오기 import 파일(모듈)명
+
+           디스크 이름 : \ㅁㅁㅁ\ㅁㅁㅁ\ㅁㅁㅁ\ㅁㅁ
+경로 절대경로 >C:\Windows\test 
+     상대경로 현재디렉토리 . 상위디렉토리 ..  
+
+
+
+
+C:\Windows\test>cd ..
+
+C:\Windows>cd ..
+
+C:\>cd C:Windows\test
+
+C:\Windows\test>cd ..
+
+C:\Windows>cd ..
+
+C:\>cd C:Windows\test
+
+C:\Windows\test>cd ./../Temp

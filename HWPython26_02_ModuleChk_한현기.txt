@@ -1,0 +1,11 @@
+# 모듈 : 함수나 변수 또는 클래스를 모아 높은 파일이다 .py 
+
+사용방식
+
+ import 모듈이름 .py 
+
+from 모듈이름 import 모듈함수
+
+
+import 모듈이름 as 별칭 (ex   pandas as pd      matplotlib >> plt 
+  

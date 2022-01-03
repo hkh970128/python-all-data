@@ -1,0 +1,13 @@
+HWPYthon09_05_ListW3Chk01_한현기
+
+
+Collection type : store multiple items in a single variable
+
+
+list: ordered chanageable duplicate []
+
+turple: ordered unchanageable duplicate   ()
+
+set: unordered unchanageable unindexed duplicate {}
+
+dictionary: ordered chanageable     no duplicate {}
